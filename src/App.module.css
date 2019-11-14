@@ -1,0 +1,43 @@
+.App{
+  font-family: 'Source Sans Pro', sans-serif;
+  height: 100%;
+  
+}
+.title{
+  color: rgb(32, 21, 93);
+  font-size: 30px;
+  text-align: center;
+  margin: 40px;
+}
+.infos{
+  text-align: center;
+  margin: 40px;
+  font-size: 30px;
+
+}
+.image{
+  height:30px;
+}
+/* .flag{
+  border: 2px black;
+} */
+
+.home {
+  margin: 30px;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  font-size: 30px;
+}
+
+.Text {
+  margin-bottom: 40px;
+}
+/* 
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */

@@ -1,0 +1,61 @@
+.title {
+    color:#015196;
+    height: 100%; 
+    width: 100%;
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    text-decoration: none; 
+    margin-top: 30px;   
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.teams {
+    color:#015196;
+    margin: 5px;
+    text-align: center;
+}
+
+.name {
+    font-size: 8.6px;
+    text-align: center;
+}
+.name:hover{
+    color: #1D2686;
+}
+
+.logo {
+    height: 50px;
+    text-align: center;
+}
+.logo:hover {
+    transform: scale(1.8); 
+}
+
+.teamsRow{
+    margin-left: 18px;
+    text-align: center;
+    margin-top: 0px;
+    padding: 10px;
+    width: 100%;
+    display: flex;
+}
+.rankRow{
+    margin: 15px;
+    margin-left: 108px;
+    text-align: center;
+}
+
+.Rank {
+    padding: 22px;
+    font-size: 24px;
+}
+
+.matchRow {
+    margin: 46px;
+    margin-left: 108px;
+    text-align: center;
+    margin-top: 0px;
+}

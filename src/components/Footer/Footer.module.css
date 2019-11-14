@@ -1,0 +1,25 @@
+.title{
+    /* background-color: rgb(27, 40, 82); */
+    margin-bottom: 0;
+    color: rgb(46, 36, 36);   
+}
+
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    left:0;
+    right: 0;
+    font-family: 'Source Sans Pro', sans-serif;}
+.copyright{
+  font-family: 'Source Sans Pro', sans-serif;}
+
+.btn{
+    /* text-align: center; */
+    display: block;
+    margin: auto;
+    background-color: rgb(36, 75, 138);
+    color: white;
+    border-radius: 7px;
+    font-size: 25px;
+}

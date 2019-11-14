@@ -1,0 +1,72 @@
+h4 {
+  font-weight: lighter;
+}
+.countryInfo{
+    margin-left: 100px;
+}
+.leagueInfo{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.home {
+    margin: 30px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    font-size: 30px;
+  }
+  
+  .Text {
+    margin-bottom: 40px;
+    color: #015196;
+    font-weight: bold;
+  }
+
+  .countryName {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    color: #015196;
+  }
+  .leaguesRow{
+    margin-left: 18px;
+    text-align: center;
+    margin-top: 0px;
+    padding: 10px;
+    width: 100%;
+    display: flex;
+}
+
+  .navbar {
+    margin-left: 128px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 8px;
+    width: 88%;
+    display: flex;
+
+}
+
+  .countryFlag {
+    height: 20px;
+  }
+  .miniFlag {
+    height: 14px;
+  }
+
+  .leagueFlag{
+    height: 110px;
+ 
+  }
+
+  .leagueFlag:hover {
+    transform: scale(1.3);
+  }
+
+  .leagueName {
+    margin-top: 19px;
+    font-size: 17px;
+  }
+
+  .Link:hover {
+      color: #015196;
+      font-weight: bold;
+  }

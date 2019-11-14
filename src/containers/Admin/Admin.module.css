@@ -1,0 +1,45 @@
+.admin {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+form{
+    margin: 60px;
+    text-align: center;
+    /* background-color: rgb(255, 247, 238); */
+    
+}
+h1{
+    font-weight: bold;
+    color:  rgb(29, 38, 134);
+}
+.copyright{
+  font-family: 'Ubuntu', sans-serif;
+  margin: 20px;
+}
+label{
+  padding: 10px
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 4px;
+  }
+
+input[type=submit]{
+  background-color: rgb(15, 19, 68);
+  border-radius: 7px;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-top: 1%;
+}
+
+input[type=submit]:hover{
+  background-color: rgb(29, 38, 134);
+}

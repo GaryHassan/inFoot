@@ -1,0 +1,84 @@
+.team{
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: rgb(29, 38, 134);
+    font-weight: bold;
+}
+.blocPhoto {
+    width: 80%;
+    margin: 80px;
+}
+.blocInfo{
+    padding: 20px;
+    width: 36%;
+    float: right;
+    font-size: 1.5em;
+
+}
+
+.stadium {
+    height: 300px;
+}
+.bloc{
+    margin: 17px;
+}
+.blocPalmares{
+    width: 100%
+}
+.blocTeamInfo{
+    margin-bottom: 10px;
+}
+.listePalmares{
+    margin: 75px;
+    height: 288px;
+}
+.Palmares{
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+.Trophee{
+    color: rgb(29, 38, 134);
+}
+.anneeTrophee{
+    font-size: 1em;
+}
+.logoTrophee{
+    height: 70px;
+   
+}
+.logoTrophee1{
+    height: 80px;
+   
+}
+.logoTrophee2{
+    height: 100px;
+   
+}
+.logoTrophee3{
+    height: 120px;
+   
+}
+.logoTrophee4{
+    height: 140px;
+   
+}
+.logoTrophee5{
+    height: 160px;
+}
+.logoTrophee6{
+    height: 190px;
+}
+.Info{
+    color: rgb(29, 38, 134);
+    font-size: 0.9em;
+    padding: 10px;
+}
+.Maillot{
+    height: 80px;
+}
+
+
+td {
+    padding: 15px;
+    font-weight: bold;
+}

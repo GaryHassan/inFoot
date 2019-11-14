@@ -1,0 +1,48 @@
+.Teams {
+    margin-left: 110px;
+    margin-top: 30px;
+}
+
+.leagueLogo {
+  height: 35px;
+}
+
+.teamLogo{
+  height: 50px;
+}
+
+.teamName {
+  font-size: 11px;
+}
+.teamLogo:hover {
+  transform: scale(1.3);
+}
+
+.teamName:hover{
+  color: #015196;
+      font-weight: bold;
+}
+.leagueSelected{
+  margin-left: 100px;
+}
+.leagueName{
+  font-size: 31px;
+}
+
+.navbar {
+  margin-left: 18px;
+  text-align: center;
+  margin-top: 20px;
+  padding: 8px;
+  width: 96%;
+  display: flex;
+
+}
+.leaguesRow{
+  margin-left: 30px;
+  text-align: center;
+  margin-top: 0px;
+  padding: 0px;
+  width: 100%;
+  display: flex;
+}
